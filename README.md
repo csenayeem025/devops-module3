@@ -10,8 +10,9 @@ by Md Khurshed Alam Nayem
     -   EC2 Region in Mumbai
         ![GitHub Logo](images/step-1.png)
     -   EC2 instance tag name "nayem-ec2-module3"
-    -   create key pair as RSA type generated which is "nayem-module3"
         ![GitHub Logo](images/step-2.png)
+    -   create key pair as RSA type generated which is "nayem-module3"
+        ![GitHub Logo](images/step-key-pair.png)
     -   OS Ubuntu
         ![GitHub Logo](images/step-3.png)
     -   set security group where SSH allowed only
